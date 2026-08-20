@@ -1,6 +1,7 @@
 # Sales Performance Analysis Dashboard — Excel
 
 ## 📊 Project Overview
+![Sales Performance Dashboard](Sales-Dashboard.png)
 
 This project analyzes sales performance across products, regions, and salespersons using Microsoft Excel.
 
